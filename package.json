@@ -1,7 +1,7 @@
 {
   "name": "sp-web-walker",
-  "version": "1.0.0",
-  "description": "Walk through SharePoint web collection.",
+  "version": "1.0.1",
+  "description": "Walk through SharePoint web and its subwebs.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

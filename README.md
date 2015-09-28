@@ -1,5 +1,5 @@
 # sp-web-walker
-Walk through SharePoint web collection.
+Walk through SharePoint web and its subwebs.
 
 ## Installation
 ```

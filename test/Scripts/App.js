@@ -119,7 +119,7 @@
 	var walkRecursively = function (clientContext, web, callback, done, error) {
 	    callback(web);
 
-	    var webs = web.get_webs();
+	    var webs = web.getSubwebsForCurrentUser(null);
 
 	    clientContext.load(webs);
 	    clientContext.executeQueryAsync(function () {
