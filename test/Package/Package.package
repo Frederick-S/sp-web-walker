@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="3f043240-09c9-410d-9ac8-21ab255c85e7" 
+        solutionId="3f043240-09c9-410d-9ac8-21ab255c85e7" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SharePoint_App_SPWebWalker_Test"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="15fd7bde-8167-498b-8e58-0521fac26a87" />
+  </features>
+</package>
