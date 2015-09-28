@@ -8,7 +8,7 @@ npm install sp-web-walker --save
 
 ## Usage
 ```js
-var SPWebWalker = require('../index.js');
+var SPWebWalker = require('sp-web-walker');
 
 var options = {
     'webUrl': 'web url',
