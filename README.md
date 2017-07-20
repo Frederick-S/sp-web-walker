@@ -1,4 +1,6 @@
 # sp-web-walker
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Frederick-S/sp-web-walker.svg)](https://greenkeeper.io/)
 Walk through SharePoint web and its subwebs.
 
 ## Installation
